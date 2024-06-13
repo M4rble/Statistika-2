@@ -1,2 +1,2 @@
 # Statistika-2
-Domača/seminarska naloga pri predmetu Statistika 2
+Vse datoteke iz predmeta Statistika 2
